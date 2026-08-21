@@ -73,7 +73,9 @@ const badge = (label, value, color) =>
   `![${label}](https://img.shields.io/badge/${encodeURIComponent(
     label
   )}-${encodeURIComponent(String(value))}-${color}?style=for-the-badge)`;
+const privateCount = all.filter((r) => r && r.private && !r.fork).length;
 const metrics = [
+  badge("Proyectos privados", privateCount, "6B7280"),
   badge("Tecnologías en producción", `${techCount}+`, "B42116"),
   badge("Stack líder", lead, "16a34a"),
   badge("Construyendo desde", founded, "111111"),
