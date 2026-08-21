@@ -19,6 +19,17 @@
 <a href="mailto:hola@zetalabs.cl"><img src="https://img.shields.io/badge/hola@zetalabs.cl-111111?style=for-the-badge&logo=maildotru&logoColor=EE3A43" alt="Email" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Santiago,_Chile-111111?style=for-the-badge&logo=googlemaps&logoColor=EE3A43" alt="Location" />
 
+<br/><br/>
+
+<!-- ============ MÉTRICAS (auto) ============ -->
+<!--START_SECTION:metrics-->
+![Tecnologías en producción](https://img.shields.io/badge/Tecnolog%C3%ADas%20en%20producci%C3%B3n-17%2B-B42116?style=for-the-badge)
+&nbsp;
+![Stack líder](https://img.shields.io/badge/Stack%20l%C3%ADder-TypeScript-16a34a?style=for-the-badge)
+&nbsp;
+![Construyendo desde](https://img.shields.io/badge/Construyendo%20desde-2013-111111?style=for-the-badge)
+<!--END_SECTION:metrics-->
+
 </div>
 
 ---
@@ -84,6 +95,17 @@ deploy("production") // → ✓ success
 
 ---
 
+### 🧭 Cómo trabajamos
+
+```text
+1. Entendemos   →  El negocio primero. Diagnóstico técnico y objetivos medibles.
+2. Diseñamos    →  Arquitectura y UX pensadas para escalar, no para el demo.
+3. Construimos  →  Iteraciones cortas, código propio, cero cajas negras.
+4. Desplegamos  →  Producción, monitoreo y soporte continuo. Somos tu equipo técnico.
+```
+
+---
+
 ### 🧰 Stack
 
 <div align="center">
@@ -101,6 +123,23 @@ deploy("production") // → ✓ success
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,nginx,cloudflare,git" height="40" alt="Cloud" />
 
 </div>
+
+<br/>
+
+**⚙️ Nuestro stack en producción** <sub>— medido sobre el código real que escribimos, auto-actualizado</sub>
+
+<!--START_SECTION:langs-->
+```text
+TypeScript  ███████░░░░░░░░░░░░░░░   33.6%
+JavaScript  ████░░░░░░░░░░░░░░░░░░   17.5%
+Astro       ███░░░░░░░░░░░░░░░░░░░   11.6%
+Python      ██░░░░░░░░░░░░░░░░░░░░    8.9%
+PHP         ██░░░░░░░░░░░░░░░░░░░░    8.7%
+CSS         ██░░░░░░░░░░░░░░░░░░░░    7.2%
+HTML        █░░░░░░░░░░░░░░░░░░░░░    4.0%
+VBScript    █░░░░░░░░░░░░░░░░░░░░░    2.9%
+```
+<!--END_SECTION:langs-->
 
 ---
 
