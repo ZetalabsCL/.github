@@ -132,7 +132,7 @@ deploy("production") // → ✓ success
 
 <!--START_SECTION:langs-->
 ```text
-TypeScript  ██████░░░░░░░░░░░░░░░░   28.5%
+TypeScript  ██████░░░░░░░░░░░░░░░░   28.6%
 JavaScript  ████░░░░░░░░░░░░░░░░░░   18.6%
 Astro       ███░░░░░░░░░░░░░░░░░░░   14.3%
 PHP         ███░░░░░░░░░░░░░░░░░░░   11.6%
