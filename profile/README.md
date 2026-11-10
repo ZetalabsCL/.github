@@ -23,7 +23,7 @@
 
 <!-- ============ MÉTRICAS (auto) ============ -->
 <!--START_SECTION:metrics-->
-![Proyectos privados](https://img.shields.io/badge/Proyectos%20privados-91-6B7280?style=for-the-badge)
+![Proyectos privados](https://img.shields.io/badge/Proyectos%20privados-93-6B7280?style=for-the-badge)
 &nbsp;
 ![Tecnologías en producción](https://img.shields.io/badge/Tecnolog%C3%ADas%20en%20producci%C3%B3n-21%2B-B42116?style=for-the-badge)
 &nbsp;
@@ -132,14 +132,14 @@ deploy("production") // → ✓ success
 
 <!--START_SECTION:langs-->
 ```text
-TypeScript  ███████░░░░░░░░░░░░░░░   29.7%
-JavaScript  ████░░░░░░░░░░░░░░░░░░   18.5%
-Astro       ████░░░░░░░░░░░░░░░░░░   17.8%
-PHP         ██░░░░░░░░░░░░░░░░░░░░    8.2%
-CSS         █░░░░░░░░░░░░░░░░░░░░░    6.0%
-Python      █░░░░░░░░░░░░░░░░░░░░░    5.5%
-HTML        █░░░░░░░░░░░░░░░░░░░░░    4.6%
-Swift       █░░░░░░░░░░░░░░░░░░░░░    2.8%
+TypeScript  ██████░░░░░░░░░░░░░░░░   28.1%
+JavaScript  ████░░░░░░░░░░░░░░░░░░   17.6%
+Astro       ████░░░░░░░░░░░░░░░░░░   16.9%
+PHP         ██░░░░░░░░░░░░░░░░░░░░   11.0%
+CSS         █░░░░░░░░░░░░░░░░░░░░░    6.1%
+HTML        █░░░░░░░░░░░░░░░░░░░░░    5.6%
+Python      █░░░░░░░░░░░░░░░░░░░░░    5.2%
+Swift       █░░░░░░░░░░░░░░░░░░░░░    2.7%
 ```
 <!--END_SECTION:langs-->
 
